@@ -25,7 +25,7 @@ public class ListenerTest extends loginTest implements ITestListener{
 		testcaseresult(result );
 		}
 		catch(Exception e) {
-			System.out.println("test passed successfully");}
+			System.out.println("test passed ");}
 		
 	}
 
